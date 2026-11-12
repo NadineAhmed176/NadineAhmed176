@@ -13,16 +13,17 @@ I like learning new things by trying them out and building projects, even when t
 -  Learning more about AWS, Linux, and Docker.
 -  Always trying to improve and learn something new.
 
-### Technologies I've worked with
+### Technologies & Tools
 
-**Languages:** Python, C++, Java, SQL
+**Programming Languages:** Python, C++, Java, SQL
 
 **Databases:** MariaDB, SQLite
 
-**Tools:** Git, GitHub, Linux, Bash, Docker, AWS
+**Web Development:** HTML, CSS, JavaScript, React, Bootstrap
 
-**Web:** HTML, CSS, JavaScript, React, Bootstrap, Django, Spring Boot
+**Tools & Technologies:** Git, GitHub, Linux, Bash, Docker
 
+**Currently Learning:** Django, AWS, Data Engineering
 
 ### Some of my projects
 
