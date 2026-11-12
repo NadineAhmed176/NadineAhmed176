@@ -23,10 +23,11 @@ I like learning new things by trying them out and building projects, even when t
 
 **Web:** HTML, CSS, JavaScript, React, Bootstrap, Django, Spring Boot
 
+
 ### Some of my projects
 
-- **SmartUniLab** – A university project using React, Spring Boot, and MariaDB.
-- **ShipNGO** – An e-commerce and donation platform.
+- [**SmartUniLab**](https://github.com/NadineAhmed176/SmartUniLab) – A university project using React, Spring Boot, and MariaDB, where I worked on database design and SQL queries.
+- [**ShipNGO**](https://github.com/NadineAhmed176/ShipNGO) – An e-commerce and donation platform with shopping, donations, and product swapping features.
 
 ### Certifications
 - ITI – Database Fundamentals
