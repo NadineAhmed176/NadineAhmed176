@@ -40,9 +40,9 @@ I like learning new things by trying them out and building projects, even when t
 
 ### Find me here
 
-- GitHub: [@NadineAhmed176](https://github.com/NadineAhmed176)
-- Email: nadineahmed361@gmail.com
-
+- **LinkedIn:** [Nadine Ahmed](https://www.linkedin.com/in/nadine-ahmed-5520b1359/)
+- **GitHub:** [@NadineAhmed176](https://github.com/NadineAhmed176)
+- **Email:** nadineahmed361@gmail.com
 ---
 
 Thanks for stopping by! 😊
